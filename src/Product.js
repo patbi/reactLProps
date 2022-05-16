@@ -1,5 +1,5 @@
 import React from "react";
-import ItemDescription from "./classItemDescription";
+import ItemDescription from "./ItemDescription";
 
 function Product({ name, description, price }) {
   return (
